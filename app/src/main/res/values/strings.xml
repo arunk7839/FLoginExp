@@ -3,16 +3,16 @@
     <!--
         On the Dashboard, navigate to Settings > Basic > App ID.
     -->
-    <string name="facebook_app_id">1062527424533270</string>
+    <string name="facebook_app_id">YOUR_APP_ID</string>
 
     <!--
         same as facebook app id but prefix with fb
     -->
-    <string name="fb_login_protocol_scheme">fb1062527424533270</string>
+    <string name="fb_login_protocol_scheme">YOUR_FB_LOGIN_PROTOCOL_SCHEME</string>
 
     <!--
         On the Dashboard, navigate to Settings > Advanced > Security > Client token.
     -->
-    <string name="facebook_client_token">f946459319f819906e85bebb758ed5fe</string>
+    <string name="facebook_client_token">YOUR_FACEBOOK_CLIENT_TOKEN</string>
 
 </resources>
